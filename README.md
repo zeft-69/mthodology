@@ -1,0 +1,2 @@
+# mthodology
+hunt and pentest 
